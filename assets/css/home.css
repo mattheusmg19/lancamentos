@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+td a#link{
+    text-decoration: none;
+    color: #222A35;
+}
+
 body{
     height: 100dvh;
     font-family: 'Outfit';
