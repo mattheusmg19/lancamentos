@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const playF7 = document.getElementById("playF7");
     if (playF7) {
       playF7.addEventListener("click", function () {
-        window.location.href = "screen/f7/carroussel.html";
+        window.location.href = "./screen/f7/carroussel.html";
       });
     }
 });
